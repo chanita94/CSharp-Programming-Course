@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\bin\Debug\net8.0\03-array-Pascal's-triangle.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\bin\Debug\net8.0\03-array-Pascal's-triangle.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\bin\Debug\net8.0\03-array-Pascal's-triangle.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\bin\Debug\net8.0\03-array-Pascal's-triangle.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\bin\Debug\net8.0\03-array-Pascal's-triangle.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\refint\03-array-Pascal's-triangle.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\ref\03-array-Pascal's-triangle.dll

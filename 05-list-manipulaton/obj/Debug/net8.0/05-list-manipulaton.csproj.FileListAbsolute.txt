@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\bin\Debug\net8.0\05-list-manipulaton.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\bin\Debug\net8.0\05-list-manipulaton.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\bin\Debug\net8.0\05-list-manipulaton.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\bin\Debug\net8.0\05-list-manipulaton.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\bin\Debug\net8.0\05-list-manipulaton.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\refint\05-list-manipulaton.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\05-list-manipulaton.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\05-list-manipulaton\obj\Debug\net8.0\ref\05-list-manipulaton.dll

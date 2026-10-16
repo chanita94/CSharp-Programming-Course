@@ -12,3 +12,4 @@ C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-tria
 C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.pdb
 C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.genruntimeconfig.cache
 C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\ref\03-array-Pascal's-triangle.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\03-array-Pascal's-triangle\obj\Debug\net8.0\03-array-Pascal's-triangle.sourcelink.json

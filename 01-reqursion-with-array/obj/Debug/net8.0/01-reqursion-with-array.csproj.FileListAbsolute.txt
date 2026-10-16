@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\bin\Debug\net8.0\01-reqursion-with-array.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\bin\Debug\net8.0\01-reqursion-with-array.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\bin\Debug\net8.0\01-reqursion-with-array.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\bin\Debug\net8.0\01-reqursion-with-array.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\bin\Debug\net8.0\01-reqursion-with-array.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\refint\01-reqursion-with-array.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\01-reqursion-with-array.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\01-reqursion-with-array\obj\Debug\net8.0\ref\01-reqursion-with-array.dll

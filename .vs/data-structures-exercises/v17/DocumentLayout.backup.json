@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23640277-720B-40C6-802C-75FF8A6A114B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23640277-720B-40C6-802C-75FF8A6A114B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C0E413-7E3F-4365-BAE2-2C9EC19CBFE6}|05-list-manipulaton\\05-list-manipulaton.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\05-list-manipulaton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C0E413-7E3F-4365-BAE2-2C9EC19CBFE6}|05-list-manipulaton\\05-list-manipulaton.csproj|solutionrelative:05-list-manipulaton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6F39C0-51B2-4778-8DE8-8B8B06B91A5A}|04-list-sum-adjacent-equals\\04-list-sum-adjacent-equals.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\04-list-sum-adjacent-equals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6F39C0-51B2-4778-8DE8-8B8B06B91A5A}|04-list-sum-adjacent-equals\\04-list-sum-adjacent-equals.csproj|solutionrelative:04-list-sum-adjacent-equals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4603357D-2B49-49DC-95D0-2B0CB9239474}|01-reqursion-with-array\\01-reqursion-with-array.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\01-reqursion-with-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4603357D-2B49-49DC-95D0-2B0CB9239474}|01-reqursion-with-array\\01-reqursion-with-array.csproj|solutionrelative:01-reqursion-with-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7589CC8E-9E2F-4EF0-9E7A-138CFAF6CA57}|02-array-rotations\\02-array-rotations.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\02-array-rotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7589CC8E-9E2F-4EF0-9E7A-138CFAF6CA57}|02-array-rotations\\02-array-rotations.csproj|solutionrelative:02-array-rotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|solutionrelative:03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0348CBFC-8ED0-4216-B1E2-F4F5D0C8B5D2}|data-structures-exercises\\01-arrays.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\data-structures-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0348CBFC-8ED0-4216-B1E2-F4F5D0C8B5D2}|data-structures-exercises\\01-arrays.csproj|solutionrelative:data-structures-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE2A114-1B7E-47A5-81AC-F1544EBAB11F}|02-array\\02-array.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\02-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE2A114-1B7E-47A5-81AC-F1544EBAB11F}|02-array\\02-array.csproj|solutionrelative:02-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +40,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
-              "RelativeDocumentMoniker": "03-array-Pascal\u0027s-triangle\\Program.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
-              "RelativeToolTip": "03-array-Pascal\u0027s-triangle\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T19:26:15.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\02-array\\Program.cs",
-              "RelativeDocumentMoniker": "02-array\\Program.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\02-array\\Program.cs",
-              "RelativeToolTip": "02-array\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T14:39:09.177Z",
+              "WhenOpened": "2026-10-15T12:42:13.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\data-structures-exercises\\Program.cs",
-              "RelativeDocumentMoniker": "data-structures-exercises\\Program.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\data-structures-exercises\\Program.cs",
-              "RelativeToolTip": "data-structures-exercises\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\05-list-manipulaton\\Program.cs",
+              "RelativeDocumentMoniker": "05-list-manipulaton\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\05-list-manipulaton\\Program.cs",
+              "RelativeToolTip": "05-list-manipulaton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:53:58.487Z",
+              "WhenOpened": "2026-10-15T12:19:41.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\01-reqursion-with-array\\Program.cs",
+              "RelativeDocumentMoniker": "01-reqursion-with-array\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\01-reqursion-with-array\\Program.cs",
+              "RelativeToolTip": "01-reqursion-with-array\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:08:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\02-array-rotations\\Program.cs",
+              "RelativeDocumentMoniker": "02-array-rotations\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\02-array-rotations\\Program.cs",
+              "RelativeToolTip": "02-array-rotations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:08:34.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
+              "RelativeDocumentMoniker": "03-array-Pascal\u0027s-triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
+              "RelativeToolTip": "03-array-Pascal\u0027s-triangle\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:08:17.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\04-list-sum-adjacent-equals\\Program.cs",
+              "RelativeDocumentMoniker": "04-list-sum-adjacent-equals\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\04-list-sum-adjacent-equals\\Program.cs",
+              "RelativeToolTip": "04-list-sum-adjacent-equals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:04:52.162Z",
               "EditorCaption": ""
             }
           ]

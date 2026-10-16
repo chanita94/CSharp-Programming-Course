@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-reqursion-with-array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb3803c5d6646d5f570191e3957bbfe91f8c9ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-reqursion-with-array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-reqursion-with-array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

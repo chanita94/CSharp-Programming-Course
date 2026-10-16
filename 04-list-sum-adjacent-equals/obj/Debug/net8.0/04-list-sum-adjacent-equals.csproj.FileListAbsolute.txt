@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\bin\Debug\net8.0\04-list-sum-adjacent-equals.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\bin\Debug\net8.0\04-list-sum-adjacent-equals.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\bin\Debug\net8.0\04-list-sum-adjacent-equals.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\bin\Debug\net8.0\04-list-sum-adjacent-equals.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\bin\Debug\net8.0\04-list-sum-adjacent-equals.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\refint\04-list-sum-adjacent-equals.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\04-list-sum-adjacent-equals.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\04-list-sum-adjacent-equals\obj\Debug\net8.0\ref\04-list-sum-adjacent-equals.dll

@@ -1,4 +1,4 @@
-﻿namespace _03_array_Pascal_s_triangle
+﻿namespace data_structures_exercises
 {
     //4 rows
     //1

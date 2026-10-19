@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\bin\Debug\net8.0\07-dictionary-with-nested-dictionary.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\bin\Debug\net8.0\07-dictionary-with-nested-dictionary.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\bin\Debug\net8.0\07-dictionary-with-nested-dictionary.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\bin\Debug\net8.0\07-dictionary-with-nested-dictionary.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\bin\Debug\net8.0\07-dictionary-with-nested-dictionary.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\refint\07-dictionary-with-nested-dictionary.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\07-dictionary-with-nested-dictionary.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\07-dictionary-with-nested-dictionary\obj\Debug\net8.0\ref\07-dictionary-with-nested-dictionary.dll

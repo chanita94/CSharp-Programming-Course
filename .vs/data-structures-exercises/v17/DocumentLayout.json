@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5018AC3-7B5F-4460-BE1F-C6F22B4CD500}|07-dictionary-with-nested-dictionary\\07-dictionary-with-nested-dictionary.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\07-dictionary-with-nested-dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5018AC3-7B5F-4460-BE1F-C6F22B4CD500}|07-dictionary-with-nested-dictionary\\07-dictionary-with-nested-dictionary.csproj|solutionrelative:07-dictionary-with-nested-dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FA62A3-BC05-4C5D-BCFE-259C0FC85E60}|06-method-overloading\\06-method-overloading.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\06-method-overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FA62A3-BC05-4C5D-BCFE-259C0FC85E60}|06-method-overloading\\06-method-overloading.csproj|solutionrelative:06-method-overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|solutionrelative:03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37C0E413-7E3F-4365-BAE2-2C9EC19CBFE6}|05-list-manipulaton\\05-list-manipulaton.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\05-list-manipulaton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C0E413-7E3F-4365-BAE2-2C9EC19CBFE6}|05-list-manipulaton\\05-list-manipulaton.csproj|solutionrelative:05-list-manipulaton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7589CC8E-9E2F-4EF0-9E7A-138CFAF6CA57}|02-array-rotations\\02-array-rotations.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\02-array-rotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7589CC8E-9E2F-4EF0-9E7A-138CFAF6CA57}|02-array-rotations\\02-array-rotations.csproj|solutionrelative:02-array-rotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A10C9DC-E6CB-4A67-A1B1-00E9FC40FAC1}|03-array-Pascal\u0027s-triangle\\03-array-Pascal\u0027s-triangle.csproj|solutionrelative:03-array-pascal\u0027s-triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,18 +44,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\07-dictionary-with-nested-dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "07-dictionary-with-nested-dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\07-dictionary-with-nested-dictionary\\Program.cs",
+              "RelativeToolTip": "07-dictionary-with-nested-dictionary\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:52:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\06-method-overloading\\Program.cs",
+              "RelativeDocumentMoniker": "06-method-overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\06-method-overloading\\Program.cs",
+              "RelativeToolTip": "06-method-overloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:22:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\05-list-manipulaton\\Program.cs",
               "RelativeDocumentMoniker": "05-list-manipulaton\\Program.cs",
               "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\05-list-manipulaton\\Program.cs",
               "RelativeToolTip": "05-list-manipulaton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T12:19:41.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\01-reqursion-with-array\\Program.cs",
               "RelativeDocumentMoniker": "01-reqursion-with-array\\Program.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "01-reqursion-with-array\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T12:08:53.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T12:08:53.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\02-array-rotations\\Program.cs",
               "RelativeDocumentMoniker": "02-array-rotations\\Program.cs",
@@ -68,25 +101,24 @@
               "RelativeToolTip": "02-array-rotations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T12:08:34.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T12:08:34.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
               "RelativeDocumentMoniker": "03-array-Pascal\u0027s-triangle\\Program.cs",
               "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\03-array-Pascal\u0027s-triangle\\Program.cs",
               "RelativeToolTip": "03-array-Pascal\u0027s-triangle\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvw4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T12:08:17.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\04-list-sum-adjacent-equals\\Program.cs",
               "RelativeDocumentMoniker": "04-list-sum-adjacent-equals\\Program.cs",

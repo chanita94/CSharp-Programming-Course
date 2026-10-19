@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-list-manipulaton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb3803c5d6646d5f570191e3957bbfe91f8c9ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022d986fc3e66d323c0f2eaf0550b284aa79a838")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-list-manipulaton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-list-manipulaton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

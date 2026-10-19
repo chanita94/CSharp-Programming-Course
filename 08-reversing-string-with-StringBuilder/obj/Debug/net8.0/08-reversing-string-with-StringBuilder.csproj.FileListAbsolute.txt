@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\bin\Debug\net8.0\08-reversing-string-with-StringBuilder.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\bin\Debug\net8.0\08-reversing-string-with-StringBuilder.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\bin\Debug\net8.0\08-reversing-string-with-StringBuilder.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\bin\Debug\net8.0\08-reversing-string-with-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\bin\Debug\net8.0\08-reversing-string-with-StringBuilder.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\refint\08-reversing-string-with-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\08-reversing-string-with-StringBuilder.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\08-reversing-string-with-StringBuilder\obj\Debug\net8.0\ref\08-reversing-string-with-StringBuilder.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07-dictionary-with-nested-dictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022d986fc3e66d323c0f2eaf0550b284aa79a838")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1204f6989001283cb784927785a2d6d55689e557")]
 [assembly: System.Reflection.AssemblyProductAttribute("07-dictionary-with-nested-dictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07-dictionary-with-nested-dictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

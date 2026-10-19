@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "08-reversing-string-with-StringBuilder/1.0.0": {
+        "runtime": {
+          "08-reversing-string-with-StringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08-reversing-string-with-StringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

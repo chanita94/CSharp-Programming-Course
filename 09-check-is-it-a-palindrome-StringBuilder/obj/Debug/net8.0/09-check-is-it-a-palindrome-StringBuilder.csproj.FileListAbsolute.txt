@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\bin\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\bin\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\bin\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\bin\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\bin\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\refint\09-check-is-it-a-palindrome-StringBuilder.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\09-check-is-it-a-palindrome-StringBuilder.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\09-check-is-it-a-palindrome-StringBuilder\obj\Debug\net8.0\ref\09-check-is-it-a-palindrome-StringBuilder.dll

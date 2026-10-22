@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\bin\Debug\net8.0\10-browser-navigation-with-Stack.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\bin\Debug\net8.0\10-browser-navigation-with-Stack.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\bin\Debug\net8.0\10-browser-navigation-with-Stack.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\bin\Debug\net8.0\10-browser-navigation-with-Stack.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\bin\Debug\net8.0\10-browser-navigation-with-Stack.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\refint\10-browser-navigation-with-Stack.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\10-browser-navigation-with-Stack.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\10-browser-navigation-with-Stack\obj\Debug\net8.0\ref\10-browser-navigation-with-Stack.dll

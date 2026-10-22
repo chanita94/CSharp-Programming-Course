@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-reversing-string-with-St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-check-is-it-a-palindrome-StringBuilder", "09-check-is-it-a-palindrome-StringBuilder\09-check-is-it-a-palindrome-StringBuilder.csproj", "{110034D6-FD8C-45AE-A938-3D2D69C769A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-browser-navigation-with-Stack", "10-browser-navigation-with-Stack\10-browser-navigation-with-Stack.csproj", "{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-order-of-files-with-Queue", "11-order-of-files-with-Queue\11-order-of-files-with-Queue.csproj", "{90454008-0F1F-436A-A240-8314D7C6B07D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{110034D6-FD8C-45AE-A938-3D2D69C769A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{110034D6-FD8C-45AE-A938-3D2D69C769A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{110034D6-FD8C-45AE-A938-3D2D69C769A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90454008-0F1F-436A-A240-8314D7C6B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90454008-0F1F-436A-A240-8314D7C6B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90454008-0F1F-436A-A240-8314D7C6B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90454008-0F1F-436A-A240-8314D7C6B07D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

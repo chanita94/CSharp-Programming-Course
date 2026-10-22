@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\bin\Debug\net8.0\11-order-of-files-with-Queue.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\bin\Debug\net8.0\11-order-of-files-with-Queue.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\bin\Debug\net8.0\11-order-of-files-with-Queue.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\bin\Debug\net8.0\11-order-of-files-with-Queue.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\bin\Debug\net8.0\11-order-of-files-with-Queue.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\refint\11-order-of-files-with-Queue.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\11-order-of-files-with-Queue.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\11-order-of-files-with-Queue\obj\Debug\net8.0\ref\11-order-of-files-with-Queue.dll

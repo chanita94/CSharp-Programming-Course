@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90454008-0F1F-436A-A240-8314D7C6B07D}|11-order-of-files-with-Queue\\11-order-of-files-with-Queue.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\11-order-of-files-with-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90454008-0F1F-436A-A240-8314D7C6B07D}|11-order-of-files-with-Queue\\11-order-of-files-with-Queue.csproj|solutionrelative:11-order-of-files-with-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}|10-browser-navigation-with-Stack\\10-browser-navigation-with-Stack.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\10-browser-navigation-with-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8863D6F3-BC0C-4E6F-A18E-0B6D8ABD95C9}|10-browser-navigation-with-Stack\\10-browser-navigation-with-Stack.csproj|solutionrelative:10-browser-navigation-with-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{110034D6-FD8C-45AE-A938-3D2D69C769A8}|09-check-is-it-a-palindrome-StringBuilder\\09-check-is-it-a-palindrome-StringBuilder.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\09-check-is-it-a-palindrome-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{110034D6-FD8C-45AE-A938-3D2D69C769A8}|09-check-is-it-a-palindrome-StringBuilder\\09-check-is-it-a-palindrome-StringBuilder.csproj|solutionrelative:09-check-is-it-a-palindrome-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\11-order-of-files-with-Queue\\Program.cs",
+              "RelativeDocumentMoniker": "11-order-of-files-with-Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\11-order-of-files-with-Queue\\Program.cs",
+              "RelativeToolTip": "11-order-of-files-with-Queue\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:21:15.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\10-browser-navigation-with-Stack\\Program.cs",
+              "RelativeDocumentMoniker": "10-browser-navigation-with-Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\10-browser-navigation-with-Stack\\Program.cs",
+              "RelativeToolTip": "10-browser-navigation-with-Stack\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:50:00.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\09-check-is-it-a-palindrome-StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "09-check-is-it-a-palindrome-StringBuilder\\Program.cs",

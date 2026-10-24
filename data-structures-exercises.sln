@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-browser-navigation-with-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-order-of-files-with-Queue", "11-order-of-files-with-Queue\11-order-of-files-with-Queue.csproj", "{90454008-0F1F-436A-A240-8314D7C6B07D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-diagonal-difference-in-matrix", "12-diagonal-difference-in-matrix\12-diagonal-difference-in-matrix.csproj", "{4E8135AC-4541-4213-8352-2FFE30622F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-matrix-boundary-sum", "13-matrix-boundary-sum\13-matrix-boundary-sum.csproj", "{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{90454008-0F1F-436A-A240-8314D7C6B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90454008-0F1F-436A-A240-8314D7C6B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90454008-0F1F-436A-A240-8314D7C6B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8135AC-4541-4213-8352-2FFE30622F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8135AC-4541-4213-8352-2FFE30622F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8135AC-4541-4213-8352-2FFE30622F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8135AC-4541-4213-8352-2FFE30622F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

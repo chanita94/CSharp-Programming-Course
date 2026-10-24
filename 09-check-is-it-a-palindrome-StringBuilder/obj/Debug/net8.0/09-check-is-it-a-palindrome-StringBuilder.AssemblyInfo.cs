@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09-check-is-it-a-palindrome-StringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ea91dff6781d404e613e63754031c4f7176e7f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bfde4e021fe4e74ea81dfb219112e15c3be129f")]
 [assembly: System.Reflection.AssemblyProductAttribute("09-check-is-it-a-palindrome-StringBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09-check-is-it-a-palindrome-StringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

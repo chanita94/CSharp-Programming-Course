@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E8135AC-4541-4213-8352-2FFE30622F02}|12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8135AC-4541-4213-8352-2FFE30622F02}|12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj|solutionrelative:12-diagonal-difference-in-matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}|13-matrix-boundary-sum\\13-matrix-boundary-sum.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\13-matrix-boundary-sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2FE29-96C2-47EA-ACD2-4AEB7C429F65}|13-matrix-boundary-sum\\13-matrix-boundary-sum.csproj|solutionrelative:13-matrix-boundary-sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8135AC-4541-4213-8352-2FFE30622F02}|12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E8135AC-4541-4213-8352-2FFE30622F02}|12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj|solutionrelative:12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90454008-0F1F-436A-A240-8314D7C6B07D}|11-order-of-files-with-Queue\\11-order-of-files-with-Queue.csproj|c:\\users\\chani\\onedrive\\desktop\\data-structures-exercises\\11-order-of-files-with-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90454008-0F1F-436A-A240-8314D7C6B07D}|11-order-of-files-with-Queue\\11-order-of-files-with-Queue.csproj|solutionrelative:11-order-of-files-with-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "12-diagonal-difference-in-matrix",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj",
+              "RelativeDocumentMoniker": "12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj",
+              "RelativeToolTip": "12-diagonal-difference-in-matrix\\12-diagonal-difference-in-matrix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-24T15:30:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\13-matrix-boundary-sum\\Program.cs",
+              "RelativeDocumentMoniker": "13-matrix-boundary-sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\13-matrix-boundary-sum\\Program.cs",
+              "RelativeToolTip": "13-matrix-boundary-sum\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T15:16:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\Program.cs",
+              "RelativeDocumentMoniker": "12-diagonal-difference-in-matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\12-diagonal-difference-in-matrix\\Program.cs",
+              "RelativeToolTip": "12-diagonal-difference-in-matrix\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:22:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\11-order-of-files-with-Queue\\Program.cs",
               "RelativeDocumentMoniker": "11-order-of-files-with-Queue\\Program.cs",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\10-browser-navigation-with-Stack\\Program.cs",
               "RelativeDocumentMoniker": "10-browser-navigation-with-Stack\\Program.cs",
@@ -47,12 +98,11 @@
               "RelativeToolTip": "10-browser-navigation-with-Stack\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T10:50:00.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T10:50:00.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\data-structures-exercises\\09-check-is-it-a-palindrome-StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "09-check-is-it-a-palindrome-StringBuilder\\Program.cs",
@@ -60,8 +110,7 @@
               "RelativeToolTip": "09-check-is-it-a-palindrome-StringBuilder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T18:03:28.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T18:03:28.881Z"
             }
           ]
         }

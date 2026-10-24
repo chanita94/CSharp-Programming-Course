@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\bin\Debug\net8.0\12-diagonal-difference-in-matrix.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\bin\Debug\net8.0\12-diagonal-difference-in-matrix.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\bin\Debug\net8.0\12-diagonal-difference-in-matrix.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\bin\Debug\net8.0\12-diagonal-difference-in-matrix.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\bin\Debug\net8.0\12-diagonal-difference-in-matrix.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\refint\12-diagonal-difference-in-matrix.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\12-diagonal-difference-in-matrix.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\12-diagonal-difference-in-matrix\obj\Debug\net8.0\ref\12-diagonal-difference-in-matrix.dll

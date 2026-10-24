@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\bin\Debug\net8.0\13-matrix-boundary-sum.exe
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\bin\Debug\net8.0\13-matrix-boundary-sum.deps.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\bin\Debug\net8.0\13-matrix-boundary-sum.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\bin\Debug\net8.0\13-matrix-boundary-sum.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\bin\Debug\net8.0\13-matrix-boundary-sum.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.sourcelink.json
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\refint\13-matrix-boundary-sum.dll
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.pdb
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\13-matrix-boundary-sum.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\data-structures-exercises\13-matrix-boundary-sum\obj\Debug\net8.0\ref\13-matrix-boundary-sum.dll
